@@ -1,19 +1,19 @@
 # Project Planning
-For this assignment, you'll create some initial plans for your project.
-
-## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
-
-## Submission Instructions
 
 ### Wireframes
+I uploaded jpgs of each Wireframe to my SoloProject Respository, which are accessible with the links below.
+- [Wireframe 1](https://github.com/jmzager0110/SoloProject/blob/master/Wireframe1.jpg)
+- [Wireframe 1.2](https://github.com/jmzager0110/SoloProject/blob/master/Wireframe1.2.jpg)
+- [Wireframe 2](https://github.com/jmzager0110/SoloProject/blob/master/Wireframe%202.jpg) 
+- [Wireframe 3](https://github.com/jmzager0110/SoloProject/blob/master/Wireframe%203.jpg)
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 ### Project Tracker
-
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+The corresponding User Stories & Their Work Items can be viewed on my [Trello board](https://trello.com/b/kCtv7wcU/solo-project).
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+I created an initial Project using a new SpringBoot Package with several dependencies for JDBC, mySQL, plus connected it to a new Heroku app, then pushed it to a new Repository, [SoloProject Respository](https://github.com/jmzager0110/SoloProject)
+
+## Assignment Description
+[Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
